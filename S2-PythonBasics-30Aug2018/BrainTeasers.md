@@ -1,0 +1,8 @@
+# BT1: AO Problem
+There are three boxes, one contains only apples, one  contains only oranges, and one contains both apples and oranges. The boxes have been incorrectly labeled such that no label identifies the actual contents of the box it labels. Opening just one box, and without looking in the box, you take out one piece of fruit. By looking at the fruit, how can you immediately label all of the boxes correctly?
+
+# BT2: Prisoner Problem
+An evil king has 1000 bottles of wine. A neighboring queen plots to kill the bad king, and sends a servant to poison the wine. The king's guards catch the servant after he has only poisoned one bottle. The guards don't know which bottle was poisoned, but they do know that the poison is so potent that even if it was diluted 1,000,000 times, it would still be fatal. Furthermore, the effects of the poison take one month to surface. The king decides he will get some of his prisoners in his vast dungeons to drink the wine. Rather than using 1000 prisoners each assigned to a particular bottle, this king knows that he needs to murder no more than 10 prisoners to figure out what bottle is poisoned, and will still be able to drink the rest of the wine in 5 weeks time. How does he pull this off? 
+
+# BT3: HourGlass Problem
+You have two hourglasses—one hourglass measures 7 minutes, and the other hourglass measures 4 minutes. How can you time 9 minutes accurately?
