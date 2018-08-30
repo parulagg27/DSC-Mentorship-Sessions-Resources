@@ -3,7 +3,7 @@
 ## Pre-Requisites:
 1. Python 3.7 
 2. pip
-3. Jupyter-notebook & sublime text 3
+3. Jupyter-notebook & sublime text 3 (or any other editor of your choice)
 
 ## Session Content:
 1. Logic building & Programming Basics (with BTs)
